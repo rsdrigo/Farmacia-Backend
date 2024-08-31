@@ -1,7 +1,7 @@
 # CRUD-Farmacia
 
 Este projeto é uma aplicação backend para gerenciamento de uma farmácia, desenvolvida utilizando o framework Spring. A aplicação permite a manipulação de dados de produtos classificados por categoria.
-<div style="text-align: center;">
+<div align="center">
 <a href="https://ibb.co/8jp3nkY"><img src="https://i.ibb.co/THSXDyW/OIG4.jpg" align="middle" width=420px alt="OIG4" border="0"></a>
 </div>
 
